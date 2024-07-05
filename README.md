@@ -1,6 +1,6 @@
 # register_form
 
-Welcome to the forrm App project! This project serves as a technical assessment for a job application.
+Welcome to the form App project! This project serves as a technical assessment for a job application.
 
 ## Getting Started
 
