@@ -1,6 +1,6 @@
 # register_form
 
-A new Flutter project.
+Welcome to the forrm App project! This project serves as a technical assessment for a job application.
 
 ## Getting Started
 
